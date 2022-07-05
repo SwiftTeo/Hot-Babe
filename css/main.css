@@ -57,9 +57,7 @@ header ul li a {
  grid-area: showcase;
  background-color: purple;
 }
-#showcase image {
- object-fit: cover;
-}
+
 footer {
  text-align: center;
  padding: 20px 0 20px;
